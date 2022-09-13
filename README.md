@@ -10,7 +10,9 @@
 
 所谓自学跑路大概就是像我这样的吧，哈哈哈
 
-我还有个个人博客，在[这里](https://nishikichisato.github.io/)!!!
+我还有个个人博客，在[这里!!!](https://nishikichisato.github.io/)
+
+现在正跟着三叶姐姐疯狂学习算法中
 
 嘛，我现在还有很多东西还没学，慢慢来吧
 
