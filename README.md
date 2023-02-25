@@ -5,7 +5,7 @@ I'am a student from GZHU(Guang Zhou University), currently a sophomore.
 * ⚡ I'am interested in Algorithm, but now is still a binger.
 * 🌱 I’m currently learning C++
 * 🎀 Love for ACGN, especially Galgame
-* 📫 Now, I regular write and summary algorithm problem in my github repo.
+* 📫 Now, I regularly write and summary algorithm problem in my github repo.
 
 <!--
 **NishikiChisato/NishikiChisato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
