@@ -1,20 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'am NishikiChisato, the name comes from NishikiGiChisato.
 
-简单介绍一下我自己吧
+I'am a student from GZHU(Guang Zhou University), currently a sophomore.
 
-目前广州大学大二半科班在读
-
-嗯，双非，不过这不重要
-
-现在玩命学习算法和计算机基础
-
-所谓自学跑路大概就是像我这样的吧，哈哈哈
-
-我还有个个人博客，在[这里!!!](https://nishikichisato.github.io/)
-
-现在正跟着三叶姐姐疯狂学习算法中
-
-嘛，我现在还有很多东西还没学，慢慢来吧
+* ⚡ I'am interested in Algorithm, but now is still a binger.
+* 🌱 I’m currently learning C++
+* 🎀 Love for ACGN, especially Galgame
+* 📫 Now, I regular write and summary algorithm problem in my github repo.
 
 <!--
 **NishikiChisato/NishikiChisato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
