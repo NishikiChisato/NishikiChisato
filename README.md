@@ -2,10 +2,10 @@
 
 I'am a student from GZHU(Guang Zhou University), currently a sophomore.
 
-* ⚡ I'am interested in Algorithm, but now is still a binger.
+* ⚡ I'am interested in Algorithm, but now is still a beginner.
 * 🌱 I’m currently learning C++.
 * 🎀 Love for ACGN, especially Galgame.
-* 📫 Now, I regularly write and summary algorithm problem in my github repo.
+* 📫 Now, I regularly write and summary algorithm problem in my github repository.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishikiChisato&show_icons=true&theme=tokyonight)[![GitHub Streak](https://streak-stats.demolab.com/?user=NIshikiChisato&theme=tokyonight)](https://git.io/streak-stats)
 
