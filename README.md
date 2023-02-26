@@ -7,6 +7,12 @@ I'am a student from GZHU(Guang Zhou University), currently a sophomore.
 * 🎀 Love for ACGN, especially Galgame
 * 📫 Now, I regularly write and summary algorithm problem in my github repo.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishikiChisato&show_icons=true&theme=tokyonight)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NishikiCHisato&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NIshikiChisato&theme=tokyonight)](https://git.io/streak-stats)
+
 <!--
 **NishikiChisato/NishikiChisato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
