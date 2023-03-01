@@ -1,6 +1,6 @@
 ### Hi there 👋 I'am NishikiChisato, the name comes from NishikiGiChisato.
 
-I'am a student from GZHU(Guang Zhou University), currently a sophomore.
+I'm a student from GZHU(Guang Zhou University), currently a sophomore.
 
 * ⚡ I'm interested in Algorithm, but now is still a beginner.
 * 🌱 I'm currently learning C++.
