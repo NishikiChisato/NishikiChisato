@@ -7,7 +7,7 @@ I'm a student from GZHU(Guang Zhou University), currently a sophomore.
 * 🎀 Love for ACGN, especially Galgame.
 * 📫 Now, I regularly write and summary algorithm problem in my github repository.
 
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishikiChisato&show_icons=true&theme=tokyonight)|[![GitHub Streak](https://streak-stats.demolab.com/?user=NIshikiChisato&theme=tokyonight)](https://git.io/streak-stats)|
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishikiChisato&show_icons=true&theme=tokyonight)|[![GitHub Streak](https://streak-stats.demolab.com/?user=NishikiChisato&theme=tokyonight)](https://git.io/streak-stats)|
 |:---:|:---:|
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishikiChisato&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|![LeetCode Info](https://stats.justsong.cn/api/leetcode?username=nishikichisato&cn=true&theme=tokyonight)|
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NishikiChisato&repo=Algorithm_Archive&theme=tokyonight)](https://github.com/NishikiChisato/Algorithm_Archive)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NishikiChisato&repo=TinySTL&theme=tokyonight)](https://github.com/NishikiChisato/TinySTL)|
