@@ -1,4 +1,4 @@
-### Hi there 👋 I'am NishikiChisato, the name comes from NishikiGiChisato.
+### Hi there 👋 I'm NishikiChisato, the name comes from NishikiGiChisato.
 
 I'm a student from GZHU(Guang Zhou University), currently a sophomore.
 
