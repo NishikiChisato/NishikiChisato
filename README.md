@@ -1,11 +1,15 @@
 ### Hi there 👋 I'm NishikiChisato, the name comes from NishikiGiChisato.
 
-I'm a student from GZHU(Guang Zhou University), currently a sophomore.
+I'm a student from GZHU(Guang Zhou University).
+
+<!--
 
 * ⚡ I'm interested in Algorithm, but now is still a beginner.
 * 🌱 I'm currently learning C++.
 * 🎀 Love for ACGN, especially Galgame.
 * 📫 Now, I regularly write and summary algorithm problem in my github repository.
+
+-->
 
 |![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NishikiChisato&show_icons=true&theme=tokyonight)|[![GitHub Streak](https://streak-stats.demolab.com/?user=NishikiChisato&theme=tokyonight)](https://git.io/streak-stats)|
 |:---:|:---:|
