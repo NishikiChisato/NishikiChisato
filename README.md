@@ -11,12 +11,14 @@ I'm a student from GZHU(Guang Zhou University).
 
 -->
 
-|![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NishikiChisato&show_icons=true&theme=tokyonight)|[![GitHub Streak](https://streak-stats.demolab.com/?user=NishikiChisato&theme=tokyonight)](https://git.io/streak-stats)|
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NishikiChisato&show_icons=true&theme=tokyonight)
+
+<!---
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NishikiChisato&theme=tokyonight)](https://git.io/streak-stats)|
 |:---:|:---:|
 |[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NishikiChisato&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|![LeetCode Info](https://stats.justsong.cn/api/leetcode?username=nishikichisato&cn=true&theme=tokyonight)|
 |[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=NishikiChisato&repo=Algorithm_Archive&theme=tokyonight)](https://github.com/NishikiChisato/Algorithm_Archive)|[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=NishikiChisato&repo=TinySTL&theme=tokyonight)](https://github.com/NishikiChisato/TinySTL)|
 
-<!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NishikiCHisato&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 
